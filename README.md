@@ -18,7 +18,7 @@ There are two pre-trained models in this repo :
 
 ## Dataset Br35H 👉🏻 https://www.kaggle.com/ahmedhamada0/brain-tumor-detection
 
-##To run the webapp locally
+## To run the webapp locally
 
 1.Clone this repo 
 
@@ -31,7 +31,7 @@ There are two pre-trained models in this repo :
 
 Works with the latest version of the different packages in this tutorial
 
-##Next Steps
+## Next Steps
 
 1.Error Analysis
 
